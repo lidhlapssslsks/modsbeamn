@@ -6,4 +6,4 @@ https://www.dropbox.com/scl/fi/gsh4vzzv007badezugsam/mix_land.zip?rlkey=vku7wy2c
 
 https://bit.ly/voughtbat
 
-http:/bit.ly/voughtzip
+https://bit.ly/voughtzip
