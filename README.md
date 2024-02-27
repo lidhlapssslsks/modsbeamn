@@ -1,3 +1,4 @@
+
 # modsbeamn
 
 
@@ -28,3 +29,7 @@ https://www.dropbox.com/scl/fi/cbunm95r07tublydur6rv/Arma-3.ini?rlkey=jrrbl5g2om
 
 
 https://www.dropbox.com/scl/fi/09d6hw43pjqlwj2ga5t8i/ACE-Night-Vision.ini?rlkey=64cljyt9t7996amvfdas3zhg7&dl=1
+
+
+modsquadbotts
+https://mega.nz/folder/LjwGFZLT#Cddmoid42o9K0dgH-WzEpQ
