@@ -1,5 +1,7 @@
 map city
 https://www.dropbox.com/scl/fi/agkzzz9f4fp4z0l0sdden/taiga.zip?rlkey=vxuucz8fbom5c5lm1pqd0l6b6&st=146v2r5e&dl=1
+map جبال ومناظر
+https://www.dropbox.com/scl/fi/omztcgn894qtw36212mco/2K-Turnpike.zip?rlkey=gn9avag81fgw5vx8u5mfccnuk&st=zpdbxyiq&dl=1
 # modsbeamn
 
 
