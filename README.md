@@ -1,3 +1,5 @@
+mod rapy
+https://www.dropbox.com/scl/fi/b6rosv4tp47sulz37xp8y/monster_j70.zip?rlkey=glx5eplulfkcms11x6lms9tg6&st=ukffnyxy&dl=1
 map city 2
 https://www.dropbox.com/scl/fi/b0qeqgdrzqjh2yimlzzs8/polish_roads_repo.zip?rlkey=jxkizw38hrwdxh92vjqqhay9w&st=p2qkjj0b&dl=1
 map cit
