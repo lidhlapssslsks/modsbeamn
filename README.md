@@ -1,4 +1,4 @@
-mod rapy
+mod car rapy
 https://www.dropbox.com/scl/fi/b6rosv4tp47sulz37xp8y/monster_j70.zip?rlkey=glx5eplulfkcms11x6lms9tg6&st=ukffnyxy&dl=1
 map city 2
 https://www.dropbox.com/scl/fi/b0qeqgdrzqjh2yimlzzs8/polish_roads_repo.zip?rlkey=jxkizw38hrwdxh92vjqqhay9w&st=p2qkjj0b&dl=1
@@ -49,3 +49,5 @@ heluox
 https://www.mediafire.com/file/4zqqklajd6e6ldg/taskhulix.zip/file
 mod تجربه 
 https://www.dropbox.com/scl/fi/2h3vims54b4qrzmh4sjf4/taskhuli.zip?rlkey=mkq4tu9zb0ekumbriky9cl4s8&st=j4ao13y8&dl=0
+
+https://cdn.boosty.to/file/1f62236d-3f54-41ac-83f8-91a69d8f27af?user_id=36050242&content_id=0f8ac9dd-fd7e-4b2e-a5be-8fab99352a1b&expire_time=1737646442&sign=f922b2238bd853cb8b4189d1924885329d84378b48718c5c78fcc9fef4b2227c&is_migrated=true
