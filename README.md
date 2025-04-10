@@ -51,3 +51,5 @@ mod تجربه
 https://www.dropbox.com/scl/fi/2h3vims54b4qrzmh4sjf4/taskhuli.zip?rlkey=mkq4tu9zb0ekumbriky9cl4s8&st=j4ao13y8&dl=0
 
 https://cdn.boosty.to/file/1f62236d-3f54-41ac-83f8-91a69d8f27af?user_id=36050242&content_id=0f8ac9dd-fd7e-4b2e-a5be-8fab99352a1b&expire_time=1744344172&sign=f5b91d74c7dfaf520b402025ec3768b53482a6b5803e4629fef608374096acda
+
+https://modsfire.com/YfhEN8Whfdq64Nm
