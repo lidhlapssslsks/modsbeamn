@@ -57,3 +57,5 @@ https://modsfire.com/YfhEN8Whfdq64Nm
 https://www.gamemods.ir/?p=35855
 
 https://sharemods.com/p5288k2dgc9j/Land_Cruiser_j70_2023_KHwylD.zip.html
+
+https://gofile.io/d/7dZCEC
