@@ -83,3 +83,5 @@ https://www.dropbox.com/scl/fi/wassunz67059qqqd5kudh/obb.bms?rlkey=nyx8go5kboyae
 https://aluigi.altervista.org/papers/quickbms.zip
 
 https://aluigi.altervista.org/bms/unreal_tournament_4.bms
+
+https://www.dropbox.com/scl/fi/e1zsiwgznhdiv00sw16zg/script.bms?rlkey=mkgcmg8ktk3pl8tsfa82z52vo&st=9gtqyk4e&dl=1
