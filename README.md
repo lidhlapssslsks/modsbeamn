@@ -1,4 +1,4 @@
-mod car rapy
+mod w car rapy
 https://www.dropbox.com/scl/fi/b6rosv4tp47sulz37xp8y/monster_j70.zip?rlkey=glx5eplulfkcms11x6lms9tg6&st=ukffnyxy&dl=1
 map city 2
 https://www.dropbox.com/scl/fi/b0qeqgdrzqjh2yimlzzs8/polish_roads_repo.zip?rlkey=jxkizw38hrwdxh92vjqqhay9w&st=p2qkjj0b&dl=1
@@ -78,3 +78,8 @@ csgo2skins818181
 
 
 https://www.dropbox.com/scl/fi/wassunz67059qqqd5kudh/obb.bms?rlkey=nyx8go5kboyaeagzgzaenx9r7&st=1zbqau28&dl=1
+
+
+https://aluigi.altervista.org/papers/quickbms.zip
+
+https://aluigi.altervista.org/bms/unreal_tournament_4.bms
