@@ -75,3 +75,6 @@ philippe00151
 
 
 csgo2skins818181
+
+
+https://www.dropbox.com/scl/fi/wassunz67059qqqd5kudh/obb.bms?rlkey=nyx8go5kboyaeagzgzaenx9r7&st=1zbqau28&dl=1
