@@ -97,3 +97,8 @@ https://www.modland.net/download/452507
 
 
 https://www.mediafire.com/file/bvbtq083xr43leo/0Toxic_Street_v1_1.zip/file
+
+
+https://www.dropbox.com/scl/fi/sxlfksqsc660xklbfgo4n/SilverBullet-PRO-CrackerzHub.zip?rlkey=1a2k4dgjl3pptcocucyty8i1t&st=sny26mp8&dl=1
+
+https://www.dropbox.com/scl/fi/xvsqayg6tmn6jn2kf2gnv/Configs.rar?rlkey=cphjc2wmp161prufxgi76ddde&st=v73jqo2r&dl=1
