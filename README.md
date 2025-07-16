@@ -106,3 +106,6 @@ https://www.dropbox.com/scl/fi/xvsqayg6tmn6jn2kf2gnv/Configs.rar?rlkey=cphjc2wmp
 https://www.dropbox.com/scl/fi/d7fuhfvbbi46caw7u91if/facebook-2024-Updated.svb?rlkey=kw5stmiy43pjnffhtptp54ip7&st=qrrauhhe&dl=1
 
 https://www.dropbox.com/scl/fi/9j8nkrtgq9n4ewxs1n2wg/proxyscrape_premium_http_proxies.txt?rlkey=ooshzfxdmq0y0ualjww7yipzy&st=87kszq42&dl=1
+
+
+https://www.dropbox.com/scl/fi/vtkywouo5rsmzirvxw77r/extracted_accounts.txt?rlkey=zr85c1xwj7332mc3so1t6as2a&st=ce6liqol&dl=1
