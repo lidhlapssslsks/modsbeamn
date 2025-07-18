@@ -110,4 +110,4 @@ https://www.dropbox.com/scl/fi/9j8nkrtgq9n4ewxs1n2wg/proxyscrape_premium_http_pr
 
 https://www.dropbox.com/scl/fi/vtkywouo5rsmzirvxw77r/extracted_accounts.txt?rlkey=zr85c1xwj7332mc3so1t6as2a&st=ce6liqol&dl=1
 
-https://cdn.boosty.to/file/1f62236d-3f54-41ac-83f8-91a69d8f27af?user_id=36050242&content_id=0f8ac9dd-fd7e-4b2e-a5be-8fab99352a1b&expire_time=1752886133&sign=ca983fb8762d8d289a59beae6e6916ec3bd9d61d8b79c1a3d200b28ca44d0365
+https://boosty.to/kenemationmods/posts/0f8ac9dd-fd7e-4b2e-a5be-8fab99352a1b?isFromFeed=true
