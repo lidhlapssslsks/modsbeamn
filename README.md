@@ -116,3 +116,7 @@ https://cdn.boosty.to/file/1f62236d-3f54-41ac-83f8-91a69d8f27af?user_id=36050242
 
 
 https://www.dropbox.com/scl/fi/p7xrdhujtff9n6uhgo93u/landsg.zip?rlkey=428kpn9dwuh04nyf14r6qkx1n&st=yteb9tgl&dl=1
+
+
+لاند واقعي
+https://www.dropbox.com/scl/fi/rs92oi6nx8onvb4xrddrv/Land100_KDMMODS.zip?rlkey=jylukf8q062bkvm9sx4zdse48&st=rfs7xpwy&dl=1
