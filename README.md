@@ -120,3 +120,7 @@ https://www.dropbox.com/scl/fi/p7xrdhujtff9n6uhgo93u/landsg.zip?rlkey=428kpn9dwu
 
 لاند واقعي
 https://www.dropbox.com/scl/fi/rs92oi6nx8onvb4xrddrv/Land100_KDMMODS.zip?rlkey=jylukf8q062bkvm9sx4zdse48&st=rfs7xpwy&dl=1
+
+
+الطور الحياة الواقعي
+https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy8wZDkzZWE2NzM0NGVhZjE3L0ViUVdrbDZjY29aQXZpVUR1czE4RUFBQkdIYXRrZjczS0czLVlXeV9QTVZwbGc%5FZT0xcnV0cHA&cid=0D93EA67344EAF17&id=D93EA67344EAF17%21s5e9216b4729c4086be2503bacd7c1000&parId=D93EA67344EAF17%21scabdc29663444e10af45e31db3d10994&o=OneUp
